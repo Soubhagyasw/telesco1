@@ -11,7 +11,7 @@ public class ClassA {
 	
 	void meth2() {
 		
-		System.out.println("meth2");
+		System.out.println("meth2ramam");
 	}
 	
 	
