@@ -16,7 +16,7 @@ public class MyController {
 	
 	void newCreate()
 	{
-		
+		System.out.println("Ram");
 	}
 
 }
