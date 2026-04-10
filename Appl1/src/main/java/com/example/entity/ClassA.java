@@ -9,6 +9,13 @@ public class ClassA {
 	}
 	
 	
+	void meth2() {
+		
+		System.out.println("meth2");
+	}
+	
+	
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("kanha");
