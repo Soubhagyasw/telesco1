@@ -11,7 +11,10 @@ public class ClassA {
 	
 	public static void main(String[] args) 
 	{
-		System.out.println("kanha");
+
+		System.out.println("main method");
+		System.out.println("ram");
+
 	}
 	
 
