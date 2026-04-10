@@ -12,5 +12,11 @@ public class MyController {
 		
 		System.out.println("ahdsjh");
 	}
+	
+	
+	void newCreate()
+	{
+		System.out.println("Ram");
+	}
 
 }
