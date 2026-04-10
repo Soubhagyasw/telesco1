@@ -17,6 +17,8 @@ public class MyController {
 	void newCreate()
 	{
 		System.out.println("Ram");
+		System.out.println("shyam");
+		System.out.println("Kesari");
 	}
 
 }
