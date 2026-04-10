@@ -14,6 +14,7 @@ public class ClassA {
 
 		System.out.println("main method");
 		System.out.println("ram");
+		System.out.println("jhshjsjm");
 
 	}
 	
